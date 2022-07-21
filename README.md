@@ -82,7 +82,7 @@ You should see a whole bunch of output that ends with something like the followi
 ```
 If you see the above then...
 
-### It worked!
+### It worked!(getting started)
 
 You are ready to go. We have a few recommended practices and things to do.
 
